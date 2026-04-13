@@ -1,0 +1,26 @@
+{
+  "name": "db-fixtures",
+  "version": "1.0.0",
+  "description": "Carregue fixtures JSON em bancos de dados para testes.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "fixtures",
+    "database",
+    "testing",
+    "seed"
+  ],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
