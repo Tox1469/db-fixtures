@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/db-fixtures/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/db-fixtures/actions)
+[![License](https://img.shields.io/github/license/Tox1469/db-fixtures?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/db-fixtures?style=flat-square)](https://github.com/Tox1469/db-fixtures/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/db-fixtures?style=flat-square)](https://github.com/Tox1469/db-fixtures/stargazers)
+
+---
+
 # db-fixtures
 
 Carregue fixtures JSON em bancos de dados para testes.
